@@ -2,16 +2,16 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Canal J | [>](http://45.90.106.7:9790/play/BfQm2084L6@U4N) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-j-fr.png"/> | &nbsp; | not-working |
-| 2 | Nickelodeon | [>](http://45.90.106.7:9790/play/FwZ4209O4@U4V) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/nickelodeon-fr.png"/> | &nbsp; | not-working |
-| 3 | Nickelodeon Junior | [>](http://45.90.106.7:9790/play/TcQd428P5@Y7M) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/nickelodeon-junior-fr.png"/> | &nbsp; | not-working |
-| 4 | Nicktoons | [>](http://45.90.106.7:9790/play/CzQL529P7@E4V) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nicktoons-us.png"/> | &nbsp; | not-working |
-| 5 | Cartoon Network | [>](http://45.90.106.7:9790/play/VrQl2079K0@Y5B) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cartoon-network-fr.png"/> | &nbsp; | not-working |
-| 6 | Cartoonito | [>](http://45.90.106.7:9790/play/TqK5084L3@J4B) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png"/> | &nbsp; | not-working |
-| 7 | Boomerang | [>](http://45.90.106.7:9790/play/BzW5096K3@L7V) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/boomerang-uk.png"/> | &nbsp; | not-working |
-| 8 | GONG | [>](http://45.90.106.7:9790/play/EvS759O6@U5J) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png"/> | &nbsp; | not-working |
-| 9 | Mangas | [>](http://45.90.106.7:9790/play/TbZ4097U5@F5L) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png"/> | &nbsp; | not-working |
-| 10 | SYFY | [>](http://45.90.106.7:9790/play/BsXA5294N2@R1E) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/syfy-uk.png"/> | &nbsp; | not-working |
+|1|Canal J|[>](http://45.90.106.7:9790/play/BfQm2084L6@U4N)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-j-fr.png"/>| Canal.J.fr |not-working|
+|2|Nickelodeon|[>](http://45.90.106.7:9790/play/FwZ4209O4@U4V)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/nickelodeon-fr.png"/>| Nickelodeon.fr |not-working|
+|3|Nickelodeon Junior|[>](http://45.90.106.7:9790/play/TcQd428P5@Y7M)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/nickelodeon-junior-fr.png"/>| Nickelodeon.Junior.fr |not-working|
+|4|Nicktoons|[>](http://45.90.106.7:9790/play/CzQL529P7@E4V)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nicktoons-us.png"/>| Nicktoons.fr |not-working|
+|5|Cartoon Network|[>](http://45.90.106.7:9790/play/VrQl2079K0@Y5B)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/cartoon-network-fr.png"/>| Cartoon.Network.fr |not-working|
+|6|Cartoonito|[>](http://45.90.106.7:9790/play/TqK5084L3@J4B)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png"/>| Cartoonito.fr |not-working|
+|7|Boomerang|[>](http://45.90.106.7:9790/play/BzW5096K3@L7V)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/boomerang-uk.png"/>| Boomerang.fr |not-working|
+|8|GONG|[>](http://45.90.106.7:9790/play/EvS759O6@U5J)|<img height="20" src="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png"/>| GONG.fr |not-working|
+|9|Mangas|[>](http://45.90.106.7:9790/play/TbZ4097U5@F5L)|<img height="20" src="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png"/>| Mangas.fr |not-working|
+|10|SYFY|[>](http://45.90.106.7:9790/play/BsXA5294N2@R1E)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/syfy-uk.png"/>| SYFY.fr |not-working|
 | 11 | TF1 | [>](http://86.202.245.66:9981/stream/channelid/1219859297?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png"/> | TF1.fr | not-working |
 | 12 | France 2 | [>](http://86.202.245.66:9981/stream/channelid/1336998922?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-2-fr.png"/> | France.2.fr | not-working |
 | 13 | France 3 | [>](http://86.202.245.66:9981/stream/channelid/891927778?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/france-3-fr.png"/> | France.3.fr | not-working |
