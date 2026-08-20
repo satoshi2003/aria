@@ -10,7 +10,7 @@
 |6|IRIB Varzesh|[>](https://stream2.removie.raha.af/live/smil:irvarzeshtv.smil/chunklist_w206723439_b1500000.m3u8)|<img height="20" src="https://static.telewebion.com/channelsLogo/592f762d-695f-42bc-912f-ecc98546d6b5/default"/>| IRIB.Varzesh.ir |not-working|
 |7|IRIB Varzesh (Backup)|[>](https://lenz.splus.ir/PLTV/88888888/224/3221226845/1.m3u8)|<img height="20" src="https://static.telewebion.com/channelsLogo/592f762d-695f-42bc-912f-ecc98546d6b5/default"/>| IRIB.Varzesh.Backup.ir |not-working|
 |8|IRIB Tamasha|[>](https://lenz.splus.ir/PLTV/88888888/224/3221226879/1.m3u8)|<img height="20" src="https://static.telewebion.com/channelsLogo/N2ZjYjI0ZWFmMDdhZTk0MTljZjg5NDI1MjVhYzFjNThiNWU4NDVlMjJlYTI4MWRkMjI1Mjc2YmJmN2FiMzVjYw/default"/>| IRIB.Tamasha.ir |not-working|
-|9|IRIB Pouya & Nahal|[>](https://lenz.splus.ir/PLTV/88888888/224/3221226140/1.m3u8)|<img height="20" src="https://static.telewebion.com/channelsLogo/Y2U2NGUwOTYxMjczYzIwNjQwNDEzMzI0YTY0OWRlYjQ2NTU4NjYyYzg5MjIwOWZkZTUyOGE1ZmRiNjMwZjA4ZA/default"/>| IRIB.Pouya.Nahal.ir |not-working|
+|9|IRIB Pouya & Nahal|[>](https://lenz.splus.ir/PLTV/88888888/224/3221226140/1.m3u8)|<img height="20" src="https://static.telewebion.com/channelsLogo/Y2U2NGUwOTYxMjczYzIwNjQwNDEzMzI0YTY0OWRlYjQ2NTU4NjYyYzg5MjIwOWZkZTUyOGE1ZmRiNjMwZjA4ZA/default"/>| IRIB.Pouya.and.Nahal.ir |not-working|
 |10|Ifilm Farsi|[>](https://lenz.splus.ir/PLTV/88888888/224/3221226842/1.m3u8)|<img height="20" src="https://static.telewebion.com/channelsLogo/NTgyNmRjMzlhMGY4MmUwNGNjZDJiMjM4OTEwNjMxNTRmMjA5Mjc1N2FiYWY2MGEzOGVkZTg1NWM0Yzc5YzU4Mw/default"/>| Ifilm.Farsi.ir |not-working|
 |11|IRIB Namayesh|[>](https://lenz.splus.ir/PLTV/88888888/224/3221226148/1.m3u8)|<img height="20" src="https://static.telewebion.com/channelsLogo/cf874981-6dbe-4a64-b6c1-41c715714b34/default"/>| IRIB.Namayesh.ir |not-working|
 |12|IRIB Mostanad|[>](https://lenz.splus.ir/PLTV/88888888/224/3221226901/1.m3u8)|<img height="20" src="https://static.telewebion.com/channelsLogo/NmI1OTM5YTljNWYxNjBhNTEyNDE4ZmYwY2FhODY1MzQwMWI4N2VmOTc5MmVhYTg5YmIwZDlmZDJhZmZjMTc2ZQ/default"/>| IRIB.Mostanad.ir |not-working|
@@ -50,8 +50,8 @@
 |46|FX One Farsi|[>](https://fxtvhls.wns.live/hls/stream.m3u8)|FX One Farsi| FX.One.Farsi.ir |stable|
 |47|FX Two Farsi|[>](https://toonixhls.wns.live/hls/stream.m3u8)|FX Two Farsi| FX.Two.Farsi.ir |stable|
 |48|Grand Cinema|[>](https://gcinemahls.wns.live/hls/stream.m3u8)|Grand Cinema| Grand.Cinema.ir |stable|
-|49|Home+|[>](https://homeplushls.wns.live/hls/stream.m3u8)|Home+| Home.ir |stable|
-|50|iCC+|[>](https://icchls.wns.live/hls/stream.m3u8)|iCC+| iCC.ir |stable|
+|49|Home+|[>](https://homeplushls.wns.live/hls/stream.m3u8)|Home+| Home.plus.ir |stable|
+|50|iCC+|[>](https://icchls.wns.live/hls/stream.m3u8)|iCC+| iCC.plus.ir |stable|
 |51|Iran Nama|[>](https://iran613hls.wns.live/hls/stream.m3u8)|Iran Nama| Iran.Nama.ir |stable|
 |52|4Music|[>](https://itthls.wns.live/hls/stream.m3u8)|4Music| 4Music.ir |stable|
 |53|Maawj tv|[>](https://maawjhls.wns.live/hls/stream.m3u8)|Maawj tv| Maawj.tv.ir |not-working|

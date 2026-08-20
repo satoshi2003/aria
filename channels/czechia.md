@@ -50,8 +50,8 @@
 | 46 | JOJ Family | [>](http://tvh.cyn.cz/stream/channelid/1693764695?profile=pass) | JOJ Family | JOJ.Family.cz | unstable |
 | 47 | AMC | [>](http://185.236.230.212:9981/play/a0bb) | AMC | AMC.cz | stable |
 | 48 | AUTOMOTORSPORT HD | [>](http://tvh.cyn.cz/stream/channelid/1879523926?profile=pass) | AUTOMOTORSPORT HD | Auto.Motor.Sport.cz | unstable |
-|49|CANAL+ ACTION HD|[>](http://185.236.230.212:9981/play/a0bw)|CANAL+ ACTION HD| CANAL.ACTION.HD.cz |stable|
-|50|CANAL+ SPORT|[>](http://185.236.230.212:9981/play/a0bu)|CANAL+ SPORT| CANAL.SPORT.cz |stable|
+|49|CANAL+ ACTION HD|[>](http://185.236.230.212:9981/play/a0bw)|CANAL+ ACTION HD| CANAL.plus.ACTION.HD.cz |stable|
+|50|CANAL+ SPORT|[>](http://185.236.230.212:9981/play/a0bu)|CANAL+ SPORT| CANAL.plus.SPORT.cz |stable|
 |51|CARTOON NETWORK|[>](http://185.236.230.212:9981/play/a0b7)|CARTOON NETWORK| CARTOON.NETWORK.cz |stable|
 |52|CINEMAX HD|[>](http://185.236.230.212:9981/play/a0c0)|CINEMAX HD| CINEMAX.HD.cz |stable|
 | 53 | CNN PRIMA NEWS HD | [>](http://185.236.230.212:9981/play/a0bf) | CNN PRIMA NEWS HD | CNN.Prima.News.cz | stable |

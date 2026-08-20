@@ -116,7 +116,7 @@
 |112|Food Network|[>](http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png"/>| Food.Network.us |unstable|
 |113|Cooking Channel|[>](http://23.237.104.106:8080/USA_COOKING/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cooking-channel-us.png"/>| Cooking.Channel.us |unstable|
 |114|Discovery Channel|[>](http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png"/>| Discovery.Channel.us |unstable|
-|115|Paramount+ with  Showtime|[>](http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png"/>| Paramount.with.Showtime.us |not-working|
+|115|Paramount+ with  Showtime|[>](http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png"/>| Paramount.plus.with.Showtime.us |not-working|
 |116|STARZ|[>](http://23.237.104.106:8080/USA_STARZ/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png"/>| STARZ.us |unstable|
 |117|FXM|[>](http://47.40.181.39:9981/stream/channelid/6404291?profile=pass)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-us.png"/>| FXM.us |not-working|
 |118|HBO|[>](https://tvpass.org/live/HBOEast/sd)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png"/>| HBO.us |not-working|
@@ -137,7 +137,7 @@
 | 133 | QVC West | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243"/> | QVCPacific.us | stable |
 | 134 | QVC2 | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729"/> | QVC2.us | stable |
 |135|Discovery Familia|[>](http://200.115.120.1:8000/play/ca053)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-familia-us.png"/>| Discovery.Familia.us |not-working|
-|136|MeTV+|[>](http://206.212.244.63/111/index.m3u8)|<img height="20" src="https://www.metv.com/images/MeTV_Plus_Color.png"/>| MeTV.us |not-working|
+|136|MeTV+|[>](http://206.212.244.63/111/index.m3u8)|<img height="20" src="https://www.metv.com/images/MeTV_Plus_Color.png"/>| MeTV.plus.us |not-working|
 |137|Rewind TV|[>](http://206.212.244.63/111/index.m3u8)|<img height="20" src="https://rewindtv.com/wp-content/uploads/2021/08/RewindTV_logo_primary_black_withtagline.png"/>| Rewind.TV.us |not-working|
 |138|Heartland|[>](http://206.212.244.63/111/index.m3u8)|<img height="20" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png"/>| Heartland.us |not-working|
 |139|CBS (Mountain Feed)|[>](http://38.175.167.27:5004/auto/v4.1)|<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png"/>| CBS.Mountain.Feed.us |not-working|
@@ -158,9 +158,9 @@
 |154|ESPN U|[>](http://40.160.24.52/ESPN_U/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png"/>| ESPN.U.us |not-working|
 |155|ESPN News|[>](http://40.160.24.52/ESPN_U/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-news-us.png"/>| ESPN.News.us |not-working|
 |156|Fox Soccer Plus|[>](http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png"/>| Fox.Soccer.Plus.us |not-working|
-|157|MGM+ Drive In|[>](http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-drive-in-us.png"/>| MGM.Drive.In.us |not-working|
-|158|MGM+|[>](http://40.160.24.52/EPIX/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png"/>| MGM.us |not-working|
-|159|MGM+ Hits|[>](http://40.160.24.52/EPIX_2/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-hits-us.png"/>| MGM.Hits.us |not-working|
+|157|MGM+ Drive In|[>](http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-drive-in-us.png"/>| MGM.plus.Drive.In.us |not-working|
+|158|MGM+|[>](http://40.160.24.52/EPIX/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png"/>| MGM.plus.us |not-working|
+|159|MGM+ Hits|[>](http://40.160.24.52/EPIX_2/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-hits-us.png"/>| MGM.plus.Hits.us |not-working|
 |160|Sundance|[>](http://40.160.24.52/SUNDANCE/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-us.png"/>| Sundance.us |not-working|
 |161|First Channel America|[>](https://amtv.tulixcdn.com/amtv4/am4abr/index.m3u8)|<img height="20" src="https://i.ibb.co/cXTmtzvd/1000024590-removebg-preview.png"/>| First.Channel.America.us |stable|
 | 162 | QVC3 | [>](https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png"/> | QVC3.us | unstable |

@@ -2,7 +2,7 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-|1|A&E|[>](http://209.61.12.77:9000/play/a08l/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png"/>| A.E.la |stable|
+|1|A&E|[>](http://209.61.12.77:9000/play/a08l/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png"/>| A.and.E.la |stable|
 |2|AMC|[>](http://209.61.12.77:9000/play/a08t/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/amc-us.png"/>| AMC.la |stable|
 |3|AXN|[>](http://209.61.12.77:9000/play/a09p/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/axn-mx.png"/>| AXN.la |stable|
 |4|USA Network|[>](https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/usa-us.png"/>| USA.Network.la |not-working|

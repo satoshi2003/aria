@@ -18,7 +18,7 @@
 |14|BBC Brit|[>](https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc116/bbcbrithdraw/bbcbrithdraw.m3u8)|<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BBC_Brit.svg/250px-BBC_Brit.svg.png"/>| BBC.Brit.ne |not-working|
 |15|BBC Lifestyle|[>](https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8)|<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/250px-BBC_Lifestyle2.svg.png"/>| BBC.Lifestyle.ne |not-working|
 |16|Cbeebies|[>](http://121.74.22.14:62381/stream/channelid/1578993444?profile=pass)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/4/4c/Cbeebies2022.svg/revision/latest/scale-to-width-down/300?cb=20260123044400"/>| Cbeebies.ne |not-working|
-|17|Bravo +1|[>](https://i.mjh.nz/.r/bravo-plus1.m3u8)|Bravo +1| Bravo.1.ne |stable|
+|17|Bravo +1|[>](https://i.mjh.nz/.r/bravo-plus1.m3u8)|Bravo +1| Bravo.plus1.ne |stable|
 | 18 | Parliament TV | [>](https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8) | Parliament TV | ParliamentTV.nz | stable |
 |19|Whakaata Māori|[>](https://d47743dknc7xq.cloudfront.net/out/v1/889d35656a514495a9642ba6dae30962/index_4.m3u8)|Whakaata Māori| Whakaata.M.ori.ne |not-working|
 |20|Te Reo|[>](https://dfecjp0pnemzw.cloudfront.net/out/v1/17ebe8fca7604907ae99719663dd2519/index_2.m3u8)|Te Reo| Te.Reo.ne |not-working|

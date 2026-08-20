@@ -6,7 +6,7 @@
 |2|Yle TV2|[>](http://217.159.149.163:9091/play/a04b)|<img height="20" src="https://static.wikia.nocookie.net/friendshipismagicfanon/images/5/5c/YLE_TV2_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20230717184535"/>| Yle.TV2.fi |stable|
 |3|MTV3|[>](http://217.159.149.163:9091/play/a04d)|<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MTV3_logo_2019.svg/1200px-MTV3_logo_2019.svg.png"/>| MTV3.fi |stable|
 |4|Nelonen|[>](http://217.159.149.163:9091/play/a049)|<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Nelonen_color_RGB.png"/>| Nelonen.fi |stable|
-|5|Yle Teema & Fam|[>](http://217.159.149.163:9091/play/a04c)|<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/1200px-Yle_Teema_%26_Fem.svg.png"/>| Yle.Teema.Fam.fi |stable|
+|5|Yle Teema & Fam|[>](http://217.159.149.163:9091/play/a04c)|<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/1200px-Yle_Teema_%26_Fem.svg.png"/>| Yle.Teema.and.Fam.fi |stable|
 |6|MTV Sub|[>](http://217.159.149.163:9091/play/a03x)|<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MTV_Sub_Logo_2022.svg/1200px-MTV_Sub_Logo_2022.svg.png"/>| MTV.Sub.fi |stable|
 |7|TV5|[>](http://217.159.149.163:9091/play/a05j)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/7/72/Kanal_5_TV5_2024.svg/revision/latest?cb=20240115083428"/>| TV5.fi |stable|
 |8|Liv|[>](http://217.159.149.163:9091/play/a03z)|<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Liv_color_RGB.png"/>| Liv.fi |stable|
