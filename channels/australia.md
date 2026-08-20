@@ -2,47 +2,47 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-|1|ABC TV|[>](https://c.mjh.nz/abc-nsw.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png"/>| ABC.TV.au |unstable|
-|2|ABC Entertains|[>](https://c.mjh.nz/abc-me.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png"/>| ABC.Entertains.au |unstable|
-|3|ABC Kids|[>](https://c.mjh.nz/abc-kids.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png"/>| ABC.Kids.au |unstable|
-|4|ABC Family|[>](https://c.mjh.nz/abc-tv-plus.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-family-au.png"/>| ABC.Family.au |unstable|
-|5|ABC News|[>](https://c.mjh.nz/abc-news.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-news-au.png"/>| ABC.News.au |unstable|
-|6|SBS|[>](http://44.32.200.142:5004/auto/v30)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png"/>| SBS.au |unstable|
-|7|SBS2 (Launches August 21st)|[>](http://44.32.200.142:5004/auto/v31)|<img height="20" src="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/SBS2-.jpg?ssl=1"/>| SBS2.Launches.August.21st.au |unstable|
-|8|SBS World Watch|[>](http://44.32.200.142:5004/auto/v35)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-watch-au.png"/>| SBS.World.Watch.au |unstable|
-|9|SBS World Movie|[>](http://44.32.200.142:5004/auto/v32)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-movie-au.png"/>| SBS.World.Movie.au |unstable|
-|10|SBS Food|[>](http://44.32.200.142:5004/auto/v33)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-food-au.png"/>| SBS.Food.au |unstable|
-|11|NITV|[>](http://44.32.200.142:5004/auto/v34)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nitv-au.png"/>| NITV.au |unstable|
-|12|Network 10|[>](http://44.32.200.142:5004/auto/v10)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/4/4b/10_2025.svg/revision/latest?cb=20250629224708"/>| Network.10.au |unstable|
-|13|10 Drama|[>](http://44.32.200.142:5004/auto/v12)|<img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/10_Drama_2025_logo.svg/330px-10_Drama_2025_logo.svg.png"/>| 10.Drama.au |not-working|
-|14|10 Comedy|[>](http://44.32.200.142:5004/auto/v11)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/e/e9/10_Comedy.svg/revision/latest?cb=20250629224211"/>| 10.Comedy.au |unstable|
-|15|Nickelodeon|[>](http://44.32.200.142:5004/auto/v13)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nickelodeon-au.png"/>| Nickelodeon.au |unstable|
-|16|You TV|[>](http://44.32.200.142:5004/auto/v16)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/you-tv-au.png"/>| You.TV.au |unstable|
-|17|Gecko|[>](http://44.32.200.142:5004/auto/v17)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/gecko-tv-au.png"/>| Gecko.au |unstable|
-|18|7 Network|[>](http://44.32.200.142:5004/auto/v7)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/fa/Seven_%282003%29.svg/revision/latest?cb=20210502163741"/>| 7.Network.au |unstable|
-|19|7two|[>](http://44.32.200.142:5004/auto/v72)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516"/>| 7two.au |unstable|
-|20|7mate|[>](http://44.32.200.142:5004/auto/v74)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/54/7mate_2020.svg/revision/latest?cb=20200710160634"/>| 7mate.au |unstable|
-|21|7flix|[>](http://44.32.200.142:5004/auto/v76)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/f6/7flix_2020.svg/revision/latest?cb=20200728124851"/>| 7flix.au |unstable|
-|22|7bravo|[>](http://44.32.200.142:5004/auto/v75)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest?cb=20240508040002"/>| 7bravo.au |unstable|
-|23|Racing.com|[>](http://44.32.200.142:5004/auto/v78)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/racing-com-au.png"/>| Racing.com.au |unstable|
-|24|TVSN|[>](https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/tvsn-au.png"/>| TVSN.au |stable|
-|25|9 Network|[>](http://44.32.200.142:5004/auto/v90)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/2/20/Nine_2023.svg/revision/latest?cb=20240111174930"/>| 9.Network.au |unstable|
-|26|9Go!|[>](http://44.32.200.142:5004/auto/v93)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/a4/9Go%21_2017-.png/revision/latest?cb=20240610101234"/>| 9Go.au |unstable|
-|27|9Gem|[>](http://44.32.200.142:5004/auto/v92)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/f6/9Gem_2017.svg/revision/latest?cb=20191126203640"/>| 9Gem.au |unstable|
-|28|9Life|[>](http://44.32.200.142:5004/auto/v94)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/36/9Life_2015-flat.svg/revision/latest?cb=20191126203559"/>| 9Life.au |unstable|
-|29|9Rush|[>](http://44.32.200.142:5004/auto/v96)|<img height="20" src="https://www.nineforbrands.com.au/wp-content/uploads/2020/08/9RUSH_2D_LOGO_DESERT_RGB.png"/>| 9Rush.au |unstable|
-|30|Comedy|[>](http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263591&extension=ts)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/comedy-au.png"/>| Comedy.au |not-working|
-|31|Lifestyle|[>](http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263675&extension=ts)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/lifestyle-au.png"/>| Lifestyle.au |not-working|
-|32|Showcase|[>](http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263681&extension=ts)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/showcase-au.png"/>| Showcase.au |not-working|
-|33|Fox8|[>](http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263669&extension=ts)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox8-au.png"/>| Fox8.au |not-working|
-| 34 | Fox Sports 501 | [>](https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpupJQ7-tXNlfIYbKYvQ4r19/m3u8) | <img height="20" src="https://i.imgur.com/59gCbVd.png"/> | FoxCricket.au | not-working |
-| 35 | Fox Sports 502 | [>](https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptOf_019ISG6XUOkn6wrLJi/m3u8) | <img height="20" src="https://i.imgur.com/idKGREY.png"/> | FoxLeague.au | not-working |
-| 36 | Fox Sports 503 | [>](https://a1xs.vip/700003) | <img height="20" src="https://i.imgur.com/5PUsSnn.png"/> | FoxSports503.au | not-working |
-| 37 | Fox Sports 504 | [>](https://a1xs.vip/700004) | <img height="20" src="https://i.imgur.com/aEoU7gf.png"/> | FoxFooty.au | not-working |
-| 38 | Fox Sports 505 | [>](https://a1xs.vip/700005) | <img height="20" src="https://i.imgur.com/angJkah.png"/> | FoxSports505.au | not-working |
-| 39 | Fox Sports 506 | [>](https://a1xs.vip/700006) | <img height="20" src="https://i.imgur.com/eA1hiR0.png"/> | FoxSports506.au | not-working |
-| 40 | Fox Sports 507 | [>](https://a1xs.vip/700007) | <img height="20" src="https://i.imgur.com/kGm7Ts1.png"/> | FoxSportsMore.au | not-working |
-|41|ESPN|[>](http://groundhogday.in/live/Jok123/Jok123/1003707.ts)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png"/>| ESPN.au |not-working|
-|42|ESPN 2|[>](http://groundhogday.in/live/Jok123/Jok123/1003706.ts)|<img height="20" src="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espn2_2x.png"/>| ESPN.2.au |not-working|
-|43|BBC First|[>](https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc113/bbcfirsthdraw/bbcfirsthdraw.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/bbc-first-au.png"/>| BBC.First.au |not-working|
-|44|10 +1|[>](http://44.32.200.142:5004/auto/v14)|<img height="20" src="https://mumbrella.com.au/wp-content/uploads/2026/06/101-logo-e1781133465816.png"/>| 10.plus1.au |unstable|
+|1| ABC TV |[>](https://c.mjh.nz/abc-nsw.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-au.png"/>| ABC.TV.au |unstable|
+|2| ABC Entertains |[>](https://c.mjh.nz/abc-me.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-entertains-au.png"/>| ABC.Entertains.au |unstable|
+|3| ABC Kids |[>](https://c.mjh.nz/abc-kids.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png"/>| ABC.Kids.au |unstable|
+|4| ABC Family |[>](https://c.mjh.nz/abc-tv-plus.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-family-au.png"/>| ABC.Family.au |unstable|
+|5| ABC News |[>](https://c.mjh.nz/abc-news.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-news-au.png"/>| ABC.News.au |unstable|
+|6| SBS |[>](http://44.32.200.142:5004/auto/v30)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png"/>| SBS.au |unstable|
+|7| SBS2 (Launches August 21st) |[>](http://44.32.200.142:5004/auto/v31)|<img height="20" src="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/SBS2-.jpg?ssl=1"/>| SBS2.Launches.August.21st.au |unstable|
+|8| SBS World Watch |[>](http://44.32.200.142:5004/auto/v35)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-watch-au.png"/>| SBS.World.Watch.au |unstable|
+|9| SBS World Movie |[>](http://44.32.200.142:5004/auto/v32)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-movie-au.png"/>| SBS.World.Movie.au |unstable|
+|10| SBS Food |[>](http://44.32.200.142:5004/auto/v33)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-food-au.png"/>| SBS.Food.au |unstable|
+|11| NITV |[>](http://44.32.200.142:5004/auto/v34)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nitv-au.png"/>| NITV.au |unstable|
+|12| Network 10 |[>](http://44.32.200.142:5004/auto/v10)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/4/4b/10_2025.svg/revision/latest?cb=20250629224708"/>| Network.10.au |unstable|
+|13| 10 Drama |[>](http://44.32.200.142:5004/auto/v12)|<img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/10_Drama_2025_logo.svg/330px-10_Drama_2025_logo.svg.png"/>| 10.Drama.au |not-working|
+|14| 10 Comedy |[>](http://44.32.200.142:5004/auto/v11)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/e/e9/10_Comedy.svg/revision/latest?cb=20250629224211"/>| 10.Comedy.au |unstable|
+|15| Nickelodeon |[>](http://44.32.200.142:5004/auto/v13)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nickelodeon-au.png"/>| Nickelodeon.au |unstable|
+|16| You TV |[>](http://44.32.200.142:5004/auto/v16)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/you-tv-au.png"/>| You.TV.au |unstable|
+|17| Gecko |[>](http://44.32.200.142:5004/auto/v17)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/gecko-tv-au.png"/>| Gecko.au |unstable|
+|18| 7 Network |[>](http://44.32.200.142:5004/auto/v7)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/fa/Seven_%282003%29.svg/revision/latest?cb=20210502163741"/>| 7.Network.au |unstable|
+|19| 7two |[>](http://44.32.200.142:5004/auto/v72)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516"/>| 7two.au |unstable|
+|20| 7mate |[>](http://44.32.200.142:5004/auto/v74)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/54/7mate_2020.svg/revision/latest?cb=20200710160634"/>| 7mate.au |unstable|
+|21| 7flix |[>](http://44.32.200.142:5004/auto/v76)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/f6/7flix_2020.svg/revision/latest?cb=20200728124851"/>| 7flix.au |unstable|
+|22| 7bravo |[>](http://44.32.200.142:5004/auto/v75)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest?cb=20240508040002"/>| 7bravo.au |unstable|
+|23| Racing.com |[>](http://44.32.200.142:5004/auto/v78)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/racing-com-au.png"/>| Racing.com.au |unstable|
+|24| TVSN |[>](https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/tvsn-au.png"/>| TVSN.au |stable|
+|25| 9 Network |[>](http://44.32.200.142:5004/auto/v90)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/2/20/Nine_2023.svg/revision/latest?cb=20240111174930"/>| 9.Network.au |unstable|
+|26| 9Go! |[>](http://44.32.200.142:5004/auto/v93)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/a/a4/9Go%21_2017-.png/revision/latest?cb=20240610101234"/>| 9Go.au |unstable|
+|27| 9Gem |[>](http://44.32.200.142:5004/auto/v92)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/f6/9Gem_2017.svg/revision/latest?cb=20191126203640"/>| 9Gem.au |unstable|
+|28| 9Life |[>](http://44.32.200.142:5004/auto/v94)|<img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/36/9Life_2015-flat.svg/revision/latest?cb=20191126203559"/>| 9Life.au |unstable|
+|29| 9Rush |[>](http://44.32.200.142:5004/auto/v96)|<img height="20" src="https://www.nineforbrands.com.au/wp-content/uploads/2020/08/9RUSH_2D_LOGO_DESERT_RGB.png"/>| 9Rush.au |unstable|
+|30| Comedy |[>](http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263591&extension=ts)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/comedy-au.png"/>| Comedy.au |not-working|
+|31| Lifestyle |[>](http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263675&extension=ts)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/lifestyle-au.png"/>| Lifestyle.au |not-working|
+|32| Showcase |[>](http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263681&extension=ts)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/showcase-au.png"/>| Showcase.au |not-working|
+|33| Fox8 |[>](http://aox.p13.pro/play/live.php?mac=00:1A:79:C6:E1:17&stream=2263669&extension=ts)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox8-au.png"/>| Fox8.au |not-working|
+|34| Fox Sports 501 |[>](https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpupJQ7-tXNlfIYbKYvQ4r19/m3u8)|<img height="20" src="https://i.imgur.com/59gCbVd.png"/>|FoxCricket.au|not-working|
+|35| Fox Sports 502 |[>](https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIptOf_019ISG6XUOkn6wrLJi/m3u8)|<img height="20" src="https://i.imgur.com/idKGREY.png"/>|FoxLeague.au|not-working|
+|36| Fox Sports 503 |[>](https://a1xs.vip/700003)|<img height="20" src="https://i.imgur.com/5PUsSnn.png"/>|FoxSports503.au|not-working|
+|37| Fox Sports 504 |[>](https://a1xs.vip/700004)|<img height="20" src="https://i.imgur.com/aEoU7gf.png"/>|FoxFooty.au|not-working|
+|38| Fox Sports 505 |[>](https://a1xs.vip/700005)|<img height="20" src="https://i.imgur.com/angJkah.png"/>|FoxSports505.au|not-working|
+|39| Fox Sports 506 |[>](https://a1xs.vip/700006)|<img height="20" src="https://i.imgur.com/eA1hiR0.png"/>|FoxSports506.au|not-working|
+|40| Fox Sports 507 |[>](https://a1xs.vip/700007)|<img height="20" src="https://i.imgur.com/kGm7Ts1.png"/>|FoxSportsMore.au|not-working|
+|41| ESPN |[>](http://groundhogday.in/live/Jok123/Jok123/1003707.ts)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png"/>| ESPN.au |not-working|
+|42| ESPN 2 |[>](http://groundhogday.in/live/Jok123/Jok123/1003706.ts)|<img height="20" src="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espn2_2x.png"/>| ESPN.2.au |not-working|
+|43| BBC First |[>](https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc113/bbcfirsthdraw/bbcfirsthdraw.m3u8)|<img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/bbc-first-au.png"/>| BBC.First.au |not-working|
+|44| 10 +1 |[>](http://44.32.200.142:5004/auto/v14)|<img height="20" src="https://mumbrella.com.au/wp-content/uploads/2026/06/101-logo-e1781133465816.png"/>| 10.plus1.au |unstable|
