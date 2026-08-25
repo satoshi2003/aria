@@ -2,5 +2,7 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Moldova 1 | [>](https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/0.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Moldova_1_2025.svg/1200px-TV_Moldova_1_2025.svg.png"/> | Moldova.1.md | stable |
-| 2 | TVR Moldova | [>](https://tvr-moldova.lg.mncdn.com/tvrmoldova/tvrmoldova.stream/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/74/TVR_Moldova_2022_logo.png"/> | TVR.Moldova.md | stable |
+| 1 | Moldova 1 | [>](https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/0.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Moldova_1_2025.svg/1280px-TV_Moldova_1_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"/> | Moldova.1.md | stable |
+| 2 | Moldova 2 | [>](http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/19439/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/TV_Moldova_2_2025.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"/> | Moldova.2.md | stable |
+| 3 | TVR Moldova | [>](https://tvr-moldova.lg.mncdn.com/tvrmoldova/tvrmoldova.stream/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/74/TVR_Moldova_2022_logo.png"/> | TVR.Moldova.md | stable |
+| 4 | ProTV Chișinău | [>](http://ba261103.amazzin.pw/iptv/9YNR783B2M6ANV6KFA25R382/19452/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Logo_Pro_TV_Chi%C8%99in%C4%83u_%282017%29.svg/250px-Logo_Pro_TV_Chi%C8%99in%C4%83u_%282017%29.svg.png"/> | ProTV.Chi.in.u.md | stable |
