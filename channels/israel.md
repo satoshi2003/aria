@@ -2,8 +2,8 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Kan 11 | [>](https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan11-il.png"/> | Kan.11.il | stable |
-| 2 | Keshet 12 | [>](https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/keshet12-il.png"/> | Keshet.12.il | stable |
+| 1 | Kan 11 | [>](http://ilvip.net:80/live/0546556529/0546556529/44550.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan11-il.png"/> | Kan.11.il | stable |
+| 2 | Keshet 12 | [>](http://ilvip.net:80/live/0546556529/0546556529/17734.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/keshet12-il.png"/> | Keshet.12.il | stable |
 | 3 | Reshet 13 | [>](https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/reshet13-il.png"/> | Reshet.13.il | stable |
 | 4 | Channel 14 | [>](https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel14-il.png"/> | Channel.14.il | stable |
 | 5 | Channel 9 | [>](http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2331/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel9-il.png"/> | Channel.9.il | stable |
@@ -24,3 +24,6 @@
 | 20 | Junior | [>](http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2366/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/junior-il.png"/> | Junior.il | not-working |
 | 21 | Baby TV | [>](http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2370/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/baby-channel-il.png"/> | Baby.TV.il | not-working |
 | 22 | Luli | [>](http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2364/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/luli-il.png"/> | Luli.il | not-working |
+| 23 | Channel 10 | [>](http://ilvip.net:80/live/0546556529/0546556529/136439.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel0-il.png"/> | Channel.10.il | unstable |
+| 24 | Channel 16 | [>](http://ilvip.net:80/live/0546556529/0546556529/300562.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel6-il.png"/> | Channel.16.il | unstable |
+| 25 | Channel 24 | [>](http://ilvip.net:80/live/0546556529/0546556529/3339.ts) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channe24-il.png"/> | Channel.24.il | unstable |

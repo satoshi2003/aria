@@ -2,15 +2,15 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | HRT 1 | [>](http://88.207.21.218:9981/stream/channelid/966025490?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true"/> | HRT.1.hr | stable |
-| 2 | HRT 2 | [>](http://88.207.21.218:9981/stream/channelid/462753074?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true"/> | HRT.2.hr | stable |
-| 3 | HRT 3 | [>](http://88.207.21.218:9981/stream/channelid/578628343?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-3-hr.png?raw=true"/> | HRT.3.hr | stable |
-| 4 | HRT 4 | [>](http://88.207.21.218:9981/stream/channelid/1956094901?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-4-hr.png?raw=true"/> | HRT.4.hr | stable |
-| 5 | RTL Televizija | [>](http://88.207.21.218:9981/stream/channelid/1370121079?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-hr.png?raw=true"/> | RTL.Televizija.hr | stable |
-| 6 | RTL 2 | [>](http://88.207.21.218:9981/stream/channelid/1367283234?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl2-hr.png?raw=true"/> | RTL.2.hr | stable |
+| 1 | HRT 1 | [>](http://88.207.21.218:9981/stream/channelid/966025490?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true"/> | HRT.1.hr | not-working |
+| 2 | HRT 2 | [>](http://88.207.21.218:9981/stream/channelid/462753074?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true"/> | HRT.2.hr | not-working |
+| 3 | HRT 3 | [>](http://88.207.21.218:9981/stream/channelid/578628343?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-3-hr.png?raw=true"/> | HRT.3.hr | not-working |
+| 4 | HRT 4 | [>](http://88.207.21.218:9981/stream/channelid/1956094901?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-4-hr.png?raw=true"/> | HRT.4.hr | not-working |
+| 5 | RTL Televizija | [>](http://88.207.21.218:9981/stream/channelid/1370121079?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-hr.png?raw=true"/> | RTL.Televizija.hr | not-working |
+| 6 | RTL 2 | [>](http://88.207.21.218:9981/stream/channelid/1367283234?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl2-hr.png?raw=true"/> | RTL.2.hr | not-working |
 | 7 | RTL Kockica | [>](http://88.207.21.218:9981/stream/channelid/352766752?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-kockica-hr.png?raw=true"/> | RTL.Kockica.hr | not-working |
 | 8 | Nova HD | [>](http://89.201.195.79:9981/stream/channelid/294410472?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/nova-hr.png?raw=true"/> | Nova.HD.hr | not-working |
-| 9 | Doma HD | [>](http://88.207.21.218:9981/stream/channelid/1300843533?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true"/> | Doma.HD.hr | stable |
+| 9 | Doma HD | [>](http://88.207.21.218:9981/stream/channelid/1300843533?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true"/> | Doma.HD.hr | not-working |
 | 10 | MAXtv Promo HD | [>](https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/Promo/default/index.mpd) | MAXtv Promo HD | MAXtv.Promo.HD.hr | stable |
 | 11 | N1 info HR (CNN Croatia) | [>](https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8) | N1 info HR (CNN Croatia) | N1.info.HR.CNN.Croatia.hr | unstable |
 | 12 | RTL Living | [>](http://88.207.21.218:9981/stream/channelid/1188033740?profile=pass) | <img height="20" src="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-living-hr.png?raw=true"/> | RTL.Living.hr | not-working |
