@@ -36,7 +36,7 @@
 | 32 | Persiana Sports | [>](https://stream2.removie.raha.af/live/smil:persiasptv.smil/chunklist_w1529468251_b1500000.m3u8) | Persiana Sports | Persiana.Sports.ir | not-working |
 | 33 | Iran International | [>](https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8) | Iran International | Iran.International.ir | stable |
 | 34 | AVA Series | [>](https://avaserieshls.wns.live/hls/stream.m3u8) | AVA Series | AVA.Series.ir | stable |
-| 35 | Newflix | [>](https://newfhls.wns.live/hls/stream.m3u8) | Newflix | Newflix.ir | not-working |
+| 35 | Newflix | [>](https://newfhls.wns.live/hls/stream.m3u8) | Newflix | Newflix.ir | unstable |
 | 36 | Afra Film | [>](https://afrafhls.wns.live/hls/stream.m3u8) | Afra Film | Afra.Film.ir | stable |
 | 37 | Afra Series | [>](https://afrashls.wns.live/hls/stream.m3u8) | Afra Series | Afra.Series.ir | not-working |
 | 38 | Arax | [>](https://araxhls.wns.live/hls/stream.m3u8) | Arax | Arax.ir | stable |
