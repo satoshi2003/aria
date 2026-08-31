@@ -48,7 +48,7 @@
 | 44 | Datis TV | [>](https://dathls.wns.live/hls/stream.m3u8) | Datis TV | Datis.TV.ir | unstable |
 | 45 | eplanet TV | [>](https://eplhls.wns.live/hls/stream.m3u8) | eplanet TV | eplanet.TV.ir | stable |
 | 46 | FX One Farsi | [>](https://fxtvhls.wns.live/hls/stream.m3u8) | FX One Farsi | FX.One.Farsi.ir | stable |
-| 47 | FX Two Farsi | [>](https://toonixhls.wns.live/hls/stream.m3u8) | FX Two Farsi | FX.Two.Farsi.ir | stable |
+| 47 | FX Two Farsi | [>](https://toonixhls.wns.live/hls/stream.m3u8) | FX Two Farsi | FX.Two.Farsi.ir | not-working |
 | 48 | Grand Cinema | [>](https://gcinemahls.wns.live/hls/stream.m3u8) | Grand Cinema | Grand.Cinema.ir | stable |
 | 49 | Home+ | [>](https://homeplushls.wns.live/hls/stream.m3u8) | Home+ | Home.plus.ir | stable |
 | 50 | iCC+ | [>](https://icchls.wns.live/hls/stream.m3u8) | iCC+ | iCC.plus.ir | stable |

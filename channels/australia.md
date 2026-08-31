@@ -9,7 +9,7 @@
 | 5 | ABC News | [>](https://c.mjh.nz/abc-news.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-news-au.png"/> | ABC.News.au | unstable |
 | 6 | SBS | [>](http://44.32.200.142:5004/auto/v30) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png"/> | SBS.au | unstable |
 | 7 | SBS2 | [>](http://44.32.200.142:5004/auto/v31) | <img height="20" src="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/SBS2-.jpg?ssl=1"/> | SBS2.au | unstable |
-| 8 | SBS World Watch | [>](http://44.32.200.142:5004/auto/v35) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-watch-au.png"/> | SBS.World.Watch.au | unstable |
+| 8 | SBS World Watch | [>](http://44.32.200.142:5004/auto/v35) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-watch-au.png"/> | SBS.World.Watch.au | not-working |
 | 9 | SBS World Movie | [>](http://44.32.200.142:5004/auto/v32) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-movie-au.png"/> | SBS.World.Movie.au | unstable |
 | 10 | SBS Food | [>](http://44.32.200.142:5004/auto/v33) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-food-au.png"/> | SBS.Food.au | unstable |
 | 11 | NITV | [>](http://44.32.200.142:5004/auto/v34) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nitv-au.png"/> | NITV.au | unstable |
@@ -22,7 +22,7 @@
 | 18 | 7 Network | [>](http://44.32.200.142:5004/auto/v7) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/fa/Seven_%282003%29.svg/revision/latest?cb=20210502163741"/> | 7.Network.au | unstable |
 | 19 | 7two | [>](http://44.32.200.142:5004/auto/v72) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/3/33/7two_2020.svg/revision/latest?cb=20200728123516"/> | 7two.au | unstable |
 | 20 | 7mate | [>](http://44.32.200.142:5004/auto/v74) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/5/54/7mate_2020.svg/revision/latest?cb=20200710160634"/> | 7mate.au | unstable |
-| 21 | 7flix | [>](http://44.32.200.142:5004/auto/v76) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/f6/7flix_2020.svg/revision/latest?cb=20200728124851"/> | 7flix.au | unstable |
+| 21 | 7flix | [>](http://44.32.200.142:5004/auto/v76) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/f/f6/7flix_2020.svg/revision/latest?cb=20200728124851"/> | 7flix.au | not-working |
 | 22 | 7bravo | [>](http://44.32.200.142:5004/auto/v75) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/b/bc/7Bravo_2024.svg/revision/latest?cb=20240508040002"/> | 7bravo.au | unstable |
 | 23 | Racing.com | [>](http://44.32.200.142:5004/auto/v78) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/racing-com-au.png"/> | Racing.com.au | unstable |
 | 24 | TVSN | [>](https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/tvsn-au.png"/> | TVSN.au | stable |
