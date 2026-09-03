@@ -67,7 +67,7 @@
 | 63 | SL One | [>](https://slonehls.wns.live/hls/stream.m3u8) | SL One | SL.One.ir | stable |
 | 64 | SL Two | [>](https://sltwohls.wns.live/hls/stream.m3u8) | SL Two | SL.Two.ir | stable |
 | 65 | Manoto HD | [>](https://m3u.iranvids.com/manoto/output.m3u8) | Manoto HD | Manoto.HD.ir | stable |
-| 66 | PBC Tapesh | [>](https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8) | PBC Tapesh | PBC.Tapesh.ir | unstable |
+| 66 | PBC Tapesh | [>](https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8) | PBC Tapesh | PBC.Tapesh.ir | not-working |
 | 67 | AVA Family | [>](https://familyhls.avatv.live/hls/stream.m3u8) | AVA Family | AVA.Family.ir | unstable |
 | 68 | 24/7 Box | [>](https://hls.247box.live/hls/stream.m3u8) | 24/7 Box | 24.7.Box.ir | stable |
 | 69 | VOA Farsi | [>](https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0360.m3u8) | VOA Farsi | VOA.Farsi.ir | stable |
