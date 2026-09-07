@@ -56,8 +56,8 @@
 | 52 | 4Music | [>](https://itthls.wns.live/hls/stream.m3u8) | 4Music | 4Music.ir | stable |
 | 53 | Maawj tv | [>](https://maawjhls.wns.live/hls/stream.m3u8) | Maawj tv | Maawj.tv.ir | not-working |
 | 54 | Persiana Travel | [>](https://mardomhls.wns.live/hls/stream.m3u8) | Persiana Travel | Persiana.Travel.ir | unstable |
-| 55 | Tapesh 2 | [>](https://maxtvhls.wns.live/hls/stream.m3u8) | Tapesh 2 | Tapesh.2.ir | stable |
-| 56 | Meta Film | [>](https://metafilmhls.wns.live/hls/stream.m3u8) | Meta Film | Meta.Film.ir | stable |
+| 55 | Tapesh 2 | [>](https://maxtvhls.wns.live/hls/stream.m3u8) | Tapesh 2 | Tapesh.2.ir | not-working |
+| 56 | Meta Film | [>](https://metafilmhls.wns.live/hls/stream.m3u8) | Meta Film | Meta.Film.ir | not-working |
 | 57 | MTC | [>](https://mtchls.wns.live/hls/stream.m3u8) | MTC | MTC.ir | stable |
 | 58 | Net TV | [>](https://nethls.wns.live/hls/stream.m3u8) | Net TV | Net.TV.ir | stable |
 | 59 | Pro Sport International | [>](https://proshls.wns.live/hls/stream.m3u8) | Pro Sport International | Pro.Sport.International.ir | not-working |
@@ -67,7 +67,7 @@
 | 63 | SL One | [>](https://slonehls.wns.live/hls/stream.m3u8) | SL One | SL.One.ir | stable |
 | 64 | SL Two | [>](https://sltwohls.wns.live/hls/stream.m3u8) | SL Two | SL.Two.ir | stable |
 | 65 | Manoto HD | [>](https://m3u.iranvids.com/manoto/output.m3u8) | Manoto HD | Manoto.HD.ir | stable |
-| 66 | PBC Tapesh | [>](https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8) | PBC Tapesh | PBC.Tapesh.ir | not-working |
+| 66 | PBC Tapesh | [>](https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8) | PBC Tapesh | PBC.Tapesh.ir | unstable |
 | 67 | AVA Family | [>](https://familyhls.avatv.live/hls/stream.m3u8) | AVA Family | AVA.Family.ir | unstable |
 | 68 | 24/7 Box | [>](https://hls.247box.live/hls/stream.m3u8) | 24/7 Box | 24.7.Box.ir | stable |
 | 69 | VOA Farsi | [>](https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0360.m3u8) | VOA Farsi | VOA.Farsi.ir | stable |
