@@ -7,7 +7,7 @@
 | 3 | ABC Kids | [>](https://c.mjh.nz/abc-kids.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png"/> | ABC.Kids.au | unstable |
 | 4 | ABC Family | [>](https://c.mjh.nz/abc-tv-plus.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-family-au.png"/> | ABC.Family.au | unstable |
 | 5 | ABC News | [>](https://c.mjh.nz/abc-news.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-news-au.png"/> | ABC.News.au | unstable |
-| 6 | SBS | [>](https://hls107.streamcollecting.cc/SBSMelbourneAU/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png"/> | SBS.au | unstable |
+| 6 | SBS | [>](https://hls107.streamcollecting.cc/SBSMelbourneAU/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png"/> | SBS.au | not-working |
 | 7 | SBS2 | [>](http://44.32.200.142:5004/auto/v31) | <img height="20" src="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/SBS2-.jpg?ssl=1"/> | SBS2.au | unstable |
 | 8 | SBS World Watch | [>](http://44.32.200.142:5004/auto/v35) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-watch-au.png"/> | SBS.World.Watch.au | unstable |
 | 9 | SBS World Movie | [>](http://44.32.200.142:5004/auto/v32) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-world-movie-au.png"/> | SBS.World.Movie.au | unstable |
