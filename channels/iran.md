@@ -54,7 +54,7 @@
 | 50 | iCC+ | [>](https://icchls.wns.live/hls/stream.m3u8) | iCC+ | iCC.plus.ir | not-working |
 | 51 | Iran Nama | [>](https://iran613hls.wns.live/hls/stream.m3u8) | Iran Nama | Iran.Nama.ir | stable |
 | 52 | 4Music | [>](https://itthls.wns.live/hls/stream.m3u8) | 4Music | 4Music.ir | stable |
-| 53 | Maawj tv | [>](https://maawjhls.wns.live/hls/stream.m3u8) | Maawj tv | Maawj.tv.ir | not-working |
+| 53 | Maawj tv | [>](https://maawjhls.wns.live/hls/stream.m3u8) | Maawj tv | Maawj.tv.ir | unstable |
 | 54 | Persiana Travel | [>](https://mardomhls.wns.live/hls/stream.m3u8) | Persiana Travel | Persiana.Travel.ir | unstable |
 | 55 | Tapesh 2 | [>](https://maxtvhls.wns.live/hls/stream.m3u8) | Tapesh 2 | Tapesh.2.ir | unstable |
 | 56 | Meta Film | [>](https://metafilmhls.wns.live/hls/stream.m3u8) | Meta Film | Meta.Film.ir | unstable |
