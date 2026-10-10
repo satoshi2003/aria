@@ -2,15 +2,15 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | ČT1 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct1-cz.png"/> | CT1.cz | unstable |
-| 2 | ČT2 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT2) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct2-cz.png"/> | CT2.cz | unstable |
+| 1 | ČT1 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct1-cz.png"/> | CT1.cz | not-working |
+| 2 | ČT2 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT2) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct2-cz.png"/> | CT2.cz | not-working |
 | 3 | ČT24 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT24) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct24-cz.png"/> | CT24.cz | not-working |
 | 4 | ČT sport | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CTsport) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png"/> | CTSport.cz | not-working |
-| 5 | ČT :D | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT_D) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png"/> | CTDecko.cz | unstable |
-| 6 | ČT art | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CTart) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png"/> | CTart.cz | unstable |
-| 7 | ČT sport Plus | [>](https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png"/> | T.sport.Plus.cz | unstable |
+| 5 | ČT :D | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT_D) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png"/> | CTDecko.cz | not-working |
+| 6 | ČT art | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CTart) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png"/> | CTart.cz | not-working |
+| 7 | ČT sport Plus | [>](https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png"/> | T.sport.Plus.cz | not-working |
 | 8 | TV Nova Ⓢ | [>](http://90.178.86.156:9981/stream/channelid/2008328081?ticket=39EE97CACCA68DECEEC4338554C526BD92D017C9&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png"/> | tvnova.cz | not-working |
-| 9 | Nova Cinema | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png"/> | NovaCinema.cz | unstable |
+| 9 | Nova Cinema | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png"/> | NovaCinema.cz | not-working |
 | 10 | Nova Action | [>](http://90.178.86.156:9981/stream/channelid/74203489?ticket=CCDB5256108C14E75BA8CAFECDB713B2589E0D63&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png"/> | NovaAction.cz | not-working |
 | 11 | Nova Fun | [>](http://90.178.86.156:9981/stream/channelid/149509414?ticket=C9B68E4DB8D55AA479829742E7A57A63AD543A8F&profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png"/> | NovaFun.cz | not-working |
 | 12 | Nova Gold | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png"/> | NovaGold.cz | not-working |
@@ -43,7 +43,7 @@
 | 39 | Disney Channel | [>](https://webstream.odjezdy.online/CZ/Disney/video.m3u8) | Disney Channel | Disney.Channel.cz | not-working |
 | 40 | Prima SHOW | [>](http://90.178.86.156:9981/stream/channelid/748255433?ticket=216B5B41838A2332296FA05EDB09FA11B1A155EE&profile=pass) | Prima SHOW | Prima.Show.cz | unstable |
 | 41 | OCKO | [>](http://90.178.86.156:9981/stream/channelid/1183792288?ticket=6CE25AF67B8D74983939FCF3B123AD08A5B0BAE8&profile=pass) | OCKO | Óčko.cz | unstable |
-| 42 | OCKO STAR | [>](http://90.178.86.156:9981/stream/channelid/1340646702?ticket=6A7ED7E2087641A202EA744A9DE44B07A2EE2FAC&profile=pass) | OCKO STAR | Óčko.STAR.cz | not-working |
+| 42 | OCKO STAR | [>](http://90.178.86.156:9981/stream/channelid/1340646702?ticket=6A7ED7E2087641A202EA744A9DE44B07A2EE2FAC&profile=pass) | OCKO STAR | Óčko.STAR.cz | unstable |
 | 43 | TV Barrandov | [>](http://90.178.86.156:9981/stream/channelid/1149773228?ticket=56A407B3D9D49568B131C27B70C4B903FD070FE5&profile=pass) | TV Barrandov | TV.Barrandov.cz | not-working |
 | 44 | Barrandov KRIMI | [>](http://90.178.86.156:9981/stream/channelid/63674077?ticket=3DD9B00FA8EDFD57654A69FCCB425D310F46D234&profile=pass) | Barrandov KRIMI | Barrandov.Krimi.cz | not-working |
 | 45 | Barrandov KINO | [>](http://90.178.86.156:9981/stream/channelid/468144232?ticket=08EE87AD25F9FBE538875ECAE79A083364326C74&profile=pass) | Barrandov KINO | Kino.Barrandov.cz | not-working |
