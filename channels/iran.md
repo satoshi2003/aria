@@ -63,7 +63,7 @@
 | 59 | Pro Sport International | [>](https://proshls.wns.live/hls/stream.m3u8) | Pro Sport International | Pro.Sport.International.ir | not-working |
 | 60 | 4Sports | [>](https://orangehls.wns.live/hls/stream.m3u8) | 4Sports | 4Sports.ir | stable |
 | 61 | PMC Royale | [>](https://pmcrohls.wns.live/hls/stream.m3u8) | PMC Royale | PMC.Royale.ir | unstable |
-| 62 | Radio Javan | [>](https://rjtvhls.wns.live/hls/stream.m3u8) | Radio Javan | Radio.Javan.ir | stable |
+| 62 | Radio Javan | [>](https://rjtvhls.wns.live/hls/stream.m3u8) | Radio Javan | Radio.Javan.ir | not-working |
 | 63 | SL One | [>](https://slonehls.wns.live/hls/stream.m3u8) | SL One | SL.One.ir | stable |
 | 64 | SL Two | [>](https://sltwohls.wns.live/hls/stream.m3u8) | SL Two | SL.Two.ir | stable |
 | 65 | Manoto HD | [>](https://m3u.iranvids.com/manoto/output.m3u8) | Manoto HD | Manoto.HD.ir | stable |
