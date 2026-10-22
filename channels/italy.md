@@ -3,7 +3,7 @@
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
 | 1 | Rai 1 | [>](http://team-tv.co:81/rai1/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png"/> | Rai.1.it | unstable |
-| 2 | Rai 2 | [>](http://team-tv.co:81/rai2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png"/> | Rai.2.it | not-working |
+| 2 | Rai 2 | [>](http://team-tv.co:81/rai2/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-2-it.png"/> | Rai.2.it | unstable |
 | 3 | Rai 3 | [>](http://team-tv.co:81/rai3/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-3-it.png"/> | Rai.3.it | unstable |
 | 4 | Rai 4 | [>](http://team-tv.co:81/rai4/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-4-it.png"/> | Rai.4.it | unstable |
 | 5 | Rai 5 | [>](http://team-tv.co:81/rai5/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-5-it.png"/> | Rai.5.it | unstable |
@@ -34,17 +34,17 @@
 | 30 | Nove | [>](http://91.146.94.234:10001/play/a09q) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/nove-it.png"/> | Nove.it | not-working |
 | 31 | DMAX | [>](https://cachehsi1a.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dmax-it.png"/> | DMAX.it | stable |
 | 32 | Discovery Channel | [>](ttp://team-tv.co:81/discovery/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png"/> | Discovery.Channel.it | stable |
-| 33 | Food Network | [>](http://93.49.98.215:55555/Food%20Network) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png"/> | Food.Network.it | unstable |
+| 33 | Food Network | [>](http://93.49.98.215:55555/Food%20Network) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png"/> | Food.Network.it | not-working |
 | 34 | MotorTrend | [>](http://93.49.98.215:55555/Motor%20Trend) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/motor-trend-us.png"/> | MotorTrend.it | not-working |
 | 35 | RealTime | [>](ttp://team-tv.co:81/realtime/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/real-time-it.png"/> | RealTime.it | stable |
 | 36 | HGTV | [>](http://77.39.161.42:55555/HGTV%20%2D%20Home%26Garden) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png"/> | HGTV.it | not-working |
 | 37 | Boing | [>](http://91.146.94.234:10001/play/a03j) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boing-it.png"/> | Boing.it | not-working |
 | 38 | Boing Plus [X] | [>](http://77.39.161.42:55555/Boing%20Plus) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/735px-Boing_Plus_logo_2020.svg.png?20201201165658"/> | Boing.Plus.X.it | not-working |
-| 39 | K2 | [>](http://93.49.98.215:55555/K2) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/k2-it.png"/> | K2.it | unstable |
+| 39 | K2 | [>](http://93.49.98.215:55555/K2) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/k2-it.png"/> | K2.it | not-working |
 | 40 | Super!/Super! Junior | [>](http://91.146.94.234:10001/play/a0j8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-it.png"/> | Super.Super.Junior.it | not-working |
 | 41 | Cartoonito | [>](http://91.146.94.234:10001/play/a03p) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png"/> | Cartoonito.it | not-working |
 | 42 | Rai Südtirol (Local) | [>](http://57.128.239.62/RaiBozen/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rai_S%C3%BCdtirol_-_Logo_2019.svg/1920px-Rai_S%C3%BCdtirol_-_Logo_2019.svg.png"/> | Rai.S.dtirol.Local.it | not-working |
-| 43 | Nickelodeon | [>](http://team-tv.co:81/nick/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png"/> | Nickelodeon.it | unstable |
+| 43 | Nickelodeon | [>](http://team-tv.co:81/nick/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png"/> | Nickelodeon.it | not-working |
 | 44 | Top Crime | [>](http://team-tv.co:81/topcrime/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/top-crime-it.png"/> | Top.Crime.it | unstable |
 | 45 | Inter TV | [>](http://team-tv.co:81/inter/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/inter-tv-it.png"/> | Inter.TV.it | stable |
 | 46 | TV 2000 | [>](http://team-tv.co:81/tv2000/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tv2000-it.png"/> | TV.2000.it | unstable |
