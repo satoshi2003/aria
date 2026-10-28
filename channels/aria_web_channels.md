@@ -25,4 +25,4 @@
 | 21 | 4GTV | [>](https://4gtv.ngrok.app/hls/stream.m3u8) | 4GTV | 4GTV.ar | not-working |
 | 22 | Valuto One | [>](http://199.245.173.253:5004/auto/v3.11) | <img height="20" src="https://cdn271.picsart.com/7c6237cf-5ace-44ce-b521-3a4a8e4d688a/525453302021201.png?to=crop&type=webp&r=540x205&q=85"/> | Valuto.One.ar | not-working |
 | 23 | Hit3 | [>](https://4gtv.ngrok.app/hls/stream.m3u8) | Hit3 | Hit3.ar | not-working |
-| 24 | BirdONE | [>](https://aria.5x0.org/channeldead.mp4) | BirdONE | &nbsp; | stable
+| 24 | BirdONE | [>](https://aria.5x0.org/channeldead.mp4) | BirdONE | BirdONE.ar | stable |
