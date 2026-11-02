@@ -2,10 +2,10 @@
 
 | # | Channel | Link | Logo | EPG id | Type |
 |:-:|:-------:|:----:|:----:|:------:|:----:|
-| 1 | Polsat | [>](http://93.154.131.8:9981/stream/channelid/661690165?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png"/> | Polsat.pl | unstable |
-| 2 | Polsat 2 | [>](http://93.154.131.8:9981/stream/channelid/1148589854?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-2-pl.png"/> | Polsat.2.pl | unstable |
-| 3 | Polsat Café | [>](http://93.154.131.8:9981/stream/channelid/1013714226?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-cafe-pl.png"/> | Polsat.Caf.pl | unstable |
-| 4 | Polsat Doku | [>](http://93.154.131.8:9981/stream/channelid/79744173?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-doku-pl.png"/> | Polsat.Doku.pl | not-working |
+| 1 | Polsat | [>](http://93.154.131.8:9981/stream/channelid/661690165?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png"/> | Polsat.pl | not-working |
+| 2 | Polsat 2 | [>](http://93.154.131.8:9981/stream/channelid/1148589854?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-2-pl.png"/> | Polsat.2.pl | not-working |
+| 3 | Polsat Café | [>](http://93.154.131.8:9981/stream/channelid/1013714226?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-cafe-pl.png"/> | Polsat.Caf.pl | not-working |
+| 4 | Polsat Doku | [>](http://93.154.131.8:9981/stream/channelid/79744173?profile=pass) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-doku-pl.png"/> | Polsat.Doku.pl | unstable |
 | 5 | TVP 1 | [>](http://193.24.244.60:1001/udp/239.254.3.12:6060) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telewizja_Polska_-_TVP1_logo_2003.svg/1200px-Telewizja_Polska_-_TVP1_logo_2003.svg.png"/> | TVP.1.pl | not-working |
 | 6 | TVP 2 | [>](http://193.24.244.60:1001/udp/239.254.3.13:6060) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/1200px-Telewizja_Polska_-_TVP2_logo_2003.svg.png"/> | TVP.2.pl | not-working |
 | 7 | TVP 3 | [>](http://91.146.94.234:10001/play/a003) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Telewizja_Polska_-_TVP3_logo_2016.svg/1200px-Telewizja_Polska_-_TVP3_logo_2016.svg.png"/> | TVP.3.pl | not-working |
@@ -45,3 +45,4 @@
 | 41 | TVP Nauka | [>](http://193.24.244.60:1001/udp/239.254.3.40:6060) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TVP_Nauka_%282022%29.svg/250px-TVP_Nauka_%282022%29.svg.png"/> | EPG id | not-working |
 | 42 | TVP Kobieta | [>](http://193.24.244.60:1001/udp/239.254.3.40:6060) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TVP_Kobieta_%282021%29.svg/120px-TVP_Kobieta_%282021%29.svg.png"/> | EPG id | not-working |
 | 43 | Top Kids | [>](http://193.24.244.60:1001/udp/239.254.3.108:6060) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/heads/main/countries/poland/top-kids-pl.png"/> | Top.Kids.pl | not-working |
+| 44 | 2x2 | [>](https://biptv.s.gy/2x2pl) | <img height="20" src="https://cdn.iptvboss.pro/logos/Poland/2x2.pl.png"/> | 2x2.pl | unstable |
