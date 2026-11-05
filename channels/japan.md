@@ -19,3 +19,12 @@
 | 15 | Disney Jr. | [>](https://43.100.9.67/api/streams/live/cs312/1080p/mpegts) | Disney Jr. | Disney.Jr.jp | not-working |
 | 16 | Cartoon Network | [>](https://43.100.9.67/api/streams/live/cs331/1080p/mpegts) | Cartoon Network | Cartoon.Network.jp | not-working |
 | 17 | Kids Station | [>](https://43.100.9.67/api/streams/live/cs330/1080p/mpegts) | Kids Station | Kids.Station.jp | not-working |
+| 14 | NHK G | [>](https://aria.5x0.org/channeldead.mp4) | NHK G | NHK.G.jp | not-working |
+| 14 | NHK E | [>](https://aria.5x0.org/channeldead.mp4) | NHK E | NHK.E.jp | not-working |
+| 14 | Nippon TV | [>](https://aria.5x0.org/channeldead.mp4) | Nippon TV | Nippon.TV.jp | not-working |
+| 14 | Fuji TV | [>](https://aria.5x0.org/channeldead.mp4) | Fuji TV | Fuji.TV.jp | not-working |
+| 14 | TBS | [>](https://aria.5x0.org/channeldead.mp4) | TBS | TBS.jp | not-working |
+| 14 | TV Asahi | [>](https://aria.5x0.org/channeldead.mp4) | TV Asahi | TV.Asahi.jp | not-working |
+| 14 | TV Tokyo | [>](https://aria.5x0.org/channeldead.mp4) | TV Tokyo | TV.Tokyo.jp | not-working |
+| 18 | NHK World Japan | [>](https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8) | NHK World Japan | NHK.World.Japan.jp | stable |
+| 18 | NHK World Premium | [>](https://masterpl.hls.nhkworld.jp/hls/wp/live/smarttv.m3u8) | NHK World Premium | NHK.World.Premium.jp | stable |
